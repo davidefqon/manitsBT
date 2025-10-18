@@ -10,7 +10,7 @@ span.required 		{ font-size: 8pt; color: #bb0000; }
 td.category, th.category,
 td.category label, th.category label
 {
-    background-color: #edf3f4 !important;
+    background-color: #c4e0dd !important;
     color: #000000;
     font-weight: bold;
     vertical-align : top;

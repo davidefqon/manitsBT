@@ -1256,15 +1256,15 @@ $g_admin_checks = ON;
  *
  * @global string $g_favicon_image
  */
-$g_favicon_image = 'images/favicon.ico';
-
+// david $g_favicon_image = 'images/favicon.ico';
+$g_favicon_image = 'images/favicon_andes.ico';
 /**
  * Logo.
  *
  * @global string $g_logo_image
  */
-$g_logo_image = 'images/mantis_logo.png';
-
+// david $g_logo_image = 'images/mantis_logo.png';
+$g_logo_image = 'images/andes_logo_azul.png';
 /**
  * Logo URL link.
  *

@@ -1149,7 +1149,7 @@ pre.prettyprint {
     -webkit-box-shadow: none;
     box-shadow: none;
     min-height: 45px;
-    background: #438EB9;
+    background: #00a2ff;
 }
 .navbar .navbar-text,
 .navbar .navbar-link {
@@ -10675,11 +10675,11 @@ tr.detail-row > td {
     border-color: #307ECC;
 }
 .widget-color-blue2 {
-    border-color: #5090C1;
+    border-color: #305674;
 }
 .widget-color-blue2 > .widget-header {
-    background: #5090C1;
-    border-color: #5090C1;
+    background: #305674;
+    border-color: #305674;
 }
 .widget-color-blue3 {
     border-color: #6379AA;
@@ -12159,7 +12159,7 @@ tr.detail-row > td {
     color: #CF7;
 }
 .login-box .toolbar {
-    background: #5090C1;
+    background: #305674;
     border-top: 2px solid #597597;
 }
 .login-box .toolbar > div {
@@ -12212,7 +12212,7 @@ tr.detail-row > td {
     display: inline-block;
     background: #F7F7F7;
     padding: 0 8px;
-    color: #5090C1;
+    color: #305674;
     font-size: 13px;
 }
 .social-or-login:before {

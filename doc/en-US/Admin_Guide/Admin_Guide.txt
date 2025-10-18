@@ -3023,7 +3023,7 @@ $g_favicon_image
 $g_logo_image
 
       Path to the logo image relative to MantisBT root folder (default
-      'images/mantis_logo.gif').
+      'images/andes_logo_azul.gif').
 
 $g_logo_url
 
